@@ -30,7 +30,7 @@ public class MainActivity extends AppCompatActivity {
     private static final int camera2 = 101;
     private static final int gallery1 = 102;
 
-    // Элементы интерфейса
+
     private Button button1;
     private Button button2;
     private Button button3;
